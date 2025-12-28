@@ -14,27 +14,27 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 
 # 🛠 Tools & Technologies Used
- 1.Python (Data Analysis & Cleaning)
+### 1.Python (Data Analysis & Cleaning)
 
 ✅Pandas
 ✅NumPy
 ✅Matplotlib / Seaborn
 
- 2.SQL
+### 2.SQL
 
 ✅PostgreSQL Server
 
- 3.Power BI
+### 3.Power BI
 
 ✅Interactive Dashboard
 
-4.Gamma
+### 4.Gamma
 
 ✅Presentation (PPT)
 
- 5.Jupyter Notebook
+ ### 5.Jupyter Notebook
 
- 6.GitHub (Version Control)
+###  6.GitHub (Version Control)
 
 # 🔍 Project Workflow / Steps
 
