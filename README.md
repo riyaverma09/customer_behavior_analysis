@@ -119,24 +119,29 @@ d. Business-specific insights
 -> Provided data-driven recommendations for better decision-making
 
 
-▶️ How to Run This Project
+# ▶️ How to Run This Project
 
-1.Clone the repository
+1. Clone the repository
 
-git clone <repository-link>
+git clone <[repository-link](https://github.com/riyaverma09/customer_behavior_analysis.git)>
 
 
-2.Install required Python libraries
+2. Install required Python libraries
 
 pip install pandas numpy matplotlib seaborn
 
 
-3.Run the Jupyter Notebook for EDA and data cleaning.
+3. Run the Jupyter Notebook for EDA and data cleaning.
 
-4.Load the cleaned dataset into PostgreSQL Server.
+4. Load the cleaned dataset into PostgreSQL Server.
 
-5.Execute SQL queries provided in the SQL folder.
+5. Execute SQL queries provided in the SQL folder.
 
-6.Open the Power BI file (.pbix) to explore the dashboard.
+6. Open the Power BI file (.pbix) to explore the dashboard.
 
-7.View the Gamma PPT and report for final insights.
+7. View the Gamma PPT and report for final insights.
+
+
+# 📌 Conclusion
+
+This project showcases practical skills in ***data analysis, SQL querying, dashboard building, and storytelling with data.*** It reflects a real-world analytics workflow suitable for business and decision-making scenarios.
