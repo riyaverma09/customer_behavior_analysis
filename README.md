@@ -98,8 +98,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 -> Explained problem statement, approach, insights, and outcomes.
 
-📈 Power BI Dashboard
-![Power BI Dashboard](images/dashboard_overview.png)
+# 📈 Power BI Dashboard
+
 
 -> Interactive visuals and KPIs
 
@@ -107,3 +107,4 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 -> User-friendly and decision-oriented design
 
+![Power BI Dashboard](dashboard_overview.png)
