@@ -92,7 +92,7 @@ d. Business-specific insights
 
 -> Business recommendations
 
- 7.Presentation (Gamma)
+#### 7.Presentation (Gamma)
 
 -> Designed a professional PPT.
 
@@ -108,3 +108,35 @@ d. Business-specific insights
 -> User-friendly and decision-oriented design
 
 ![Power BI Dashboard](dashboard_overview.png)
+
+
+# ✅ Key Results & Insights
+
+-> Identified major trends and patterns in the data
+
+-> Highlighted performance metrics and problem areas
+
+-> Provided data-driven recommendations for better decision-making
+
+
+▶️ How to Run This Project
+
+1.Clone the repository
+
+git clone <repository-link>
+
+
+2.Install required Python libraries
+
+pip install pandas numpy matplotlib seaborn
+
+
+3.Run the Jupyter Notebook for EDA and data cleaning.
+
+4.Load the cleaned dataset into PostgreSQL Server.
+
+5.Execute SQL queries provided in the SQL folder.
+
+6.Open the Power BI file (.pbix) to explore the dashboard.
+
+7.View the Gamma PPT and report for final insights.
