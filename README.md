@@ -38,13 +38,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 # 🔍 Project Workflow / Steps
 
- 1.Data Loading
+#### 1.Data Loading
 
 -> Loaded the dataset using Python (Pandas).
 
 -> Checked data structure, columns, and data types.
 
- 2.Exploratory Data Analysis (EDA)
+#### 2.Exploratory Data Analysis (EDA)
 
 -> Analyzed distributions, trends, and patterns.
 
@@ -52,7 +52,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 -> Visualized key insights using charts and graphs.
 
- 3.Data Cleaning
+#### 3.Data Cleaning
 
 -> Handled missing and duplicate values.
 
@@ -60,21 +60,21 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 -> Prepared clean data for SQL and visualization.
 
- 4.SQL Analysis (PostgreSQL)
+#### 4.SQL Analysis (PostgreSQL)
 
 -> Imported cleaned data into PostgreSQL.
 
 -> Wrote SQL queries for:
 
-1.Aggregations
+a. Aggregations
 
-2.Filtering
+b. Filtering
 
-3.Joins
+c. Joins
 
-4.Business-specific insights
+d. Business-specific insights
 
- 5.Dashboard Creation (Power BI)
+ #### 5.Dashboard Creation (Power BI)
 
 -> Connected Power BI to PostgreSQL.
 
@@ -82,7 +82,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 -> Visualized trends and performance metrics.
 
- 6.Reporting
+#### 6.Reporting
 
 -> Created a structured analysis report summarizing:
 
